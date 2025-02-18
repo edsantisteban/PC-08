@@ -1,0 +1,27 @@
+﻿namespace Edwin_Santisteban;
+    class semana5
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ingresar el valor de número A: " );
+            double número_A = Double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingresar el valor de número B: ");
+            double número_B = Double.Parse(Console.ReadLine());
+            if(número_A > número_B)
+            {
+             Console.WriteLine("Verdadero");
+            }
+            else
+            {
+                if(número_B > número_A)
+                {
+                Console.WriteLine("Falso");
+                }
+               else if(número_A == número_B)
+                {
+                    Console.WriteLine("Ambos son iguales");
+                }
+            }
+        }
+    }
+
