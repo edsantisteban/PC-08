@@ -1,0 +1,14 @@
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\bin\Debug\net9.0\Actividad 1 - Semana 15 - clases.exe
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\bin\Debug\net9.0\Actividad 1 - Semana 15 - clases.deps.json
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\bin\Debug\net9.0\Actividad 1 - Semana 15 - clases.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\bin\Debug\net9.0\Actividad 1 - Semana 15 - clases.dll
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\bin\Debug\net9.0\Actividad 1 - Semana 15 - clases.pdb
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.dll
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\refint\Actividad 1 - Semana 15 - clases.dll
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.pdb
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\Actividad 1 - Semana 15 - clases.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documents\Laboratorio-PC\Actividad 1 - Semana 15 - clases\obj\Debug\net9.0\ref\Actividad 1 - Semana 15 - clases.dll
