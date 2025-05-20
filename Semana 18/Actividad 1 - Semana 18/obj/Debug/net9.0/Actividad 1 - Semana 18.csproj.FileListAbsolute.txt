@@ -1,0 +1,14 @@
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\bin\Debug\net9.0\Actividad 1 - Semana 18.exe
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\bin\Debug\net9.0\Actividad 1 - Semana 18.deps.json
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\bin\Debug\net9.0\Actividad 1 - Semana 18.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\bin\Debug\net9.0\Actividad 1 - Semana 18.dll
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\bin\Debug\net9.0\Actividad 1 - Semana 18.pdb
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.dll
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\refint\Actividad 1 - Semana 18.dll
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.pdb
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\Actividad 1 - Semana 18.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documents\Pruebas-Programas\Actividad 1 - Semana 18\obj\Debug\net9.0\ref\Actividad 1 - Semana 18.dll
