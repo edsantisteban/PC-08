@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  EjercicioIntroductorio2.cpp
+C:\Users\edwsa\OneDrive\Documents\Proyectos Lab 2025\EjercicioIntroductorio2\EjercicioIntroductorio2\EjercicioIntroductorio2.cpp(22,9): warning C4101: 'numeroActual': variable local sin referencia
+  (compilando archivo de origen "/EjercicioIntroductorio2.cpp")
+  
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  EjercicioIntroductorio2.vcxproj -> C:\Users\edwsa\OneDrive\Documents\Proyectos Lab 2025\EjercicioIntroductorio2\x64\Debug\EjercicioIntroductorio2.exe
